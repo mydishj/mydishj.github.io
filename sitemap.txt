@@ -1,10 +1,10 @@
+http://example.com/link/index.html
 http://example.com/about/index.html
 http://example.com/20dbfd00.html
 http://example.com/4a17b156.html
 http://example.com/ff05b5bf.html
 http://example.com/imgs/index.html
 http://example.com/Aimgs/index.html
-http://example.com/link/index.html
 http://example.com/categories/index.html
 http://example.com/
 http://example.com/tags/%E6%97%A5%E5%BF%97/
