@@ -7,9 +7,9 @@ http://example.com/link/index.html
 http://example.com/categories/index.html
 http://example.com/
 http://example.com/tags/%E6%97%A5%E5%BF%97/
-http://example.com/tags/Java/
 http://example.com/tags/%E8%AE%B0%E5%BD%95/
+http://example.com/tags/Java/
 http://example.com/categories/%E6%97%A5%E5%BF%97/
-http://example.com/categories/java/
 http://example.com/categories/%E8%AE%B0%E5%BD%95/
+http://example.com/categories/java/
 http://example.com/categories/java/%E7%AC%94%E8%AE%B0%E6%95%B4%E5%90%88/
