@@ -1,8 +1,8 @@
+http://example.com/99720b1c.html
 http://example.com/65b69107.html
 http://example.com/4a17b156.html
 http://example.com/54e1373e.html
 http://example.com/ff05b5bf.html
-http://example.com/99720b1c.html
 http://example.com/link/index.html
 http://example.com/about/index.html
 http://example.com/20dbfd00.html
@@ -16,10 +16,10 @@ http://example.com/tags/Nginx/
 http://example.com/tags/%E7%BB%83%E4%B9%A0/
 http://example.com/tags/%E8%AE%B0%E5%BD%95/
 http://example.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/
+http://example.com/categories/Java/
 http://example.com/categories/Nginx/
 http://example.com/categories/%E7%BB%83%E4%B9%A0/
-http://example.com/categories/Java/
 http://example.com/categories/%E8%AE%B0%E5%BD%95/
-http://example.com/categories/java/
 http://example.com/categories/Java/JavaWeb/
+http://example.com/categories/java/
 http://example.com/categories/java/%E7%AC%94%E8%AE%B0%E6%95%B4%E5%90%88/
